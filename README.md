@@ -1,0 +1,1 @@
+This repository contains the related config files and outputs for the tutorial series [Let's Design A Keyboard With Ergogen v4](https://flatfootfox.com/ergogen-introduction/).
